@@ -6,7 +6,9 @@ Some super description!
 
 Watch tutorial on YouTube!
 
-## Local Development
+## Fixed local development
 
-1. Open index.html in your browser.
+1. Close index.html in your browser.
 2. Added new string.
+3. Added second string.
+4. Added third string.
